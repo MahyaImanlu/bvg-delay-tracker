@@ -27,11 +27,11 @@ Departure and delay data is collected from the [VBB REST API](https://v6.vbb.tra
 
 
 ## 📊 Overview
-- We have collected 52.50K data over 16 days for 3 stations in Berlin : Alexanderplatz, Hauptbahnhof, and Kottbusser Tor.
-- After 16 days of data collecting for three stations of Berlin, we have figured out that departures from the Hauptbahnhof station have the highest delay average (24.65).
+- I have collected 52.50K data over 16 days for 3 stations in Berlin : Alexanderplatz, Hauptbahnhof, and Kottbusser Tor.
+- After 16 days of data collecting for three stations of Berlin, i have figured out that departures from the Hauptbahnhof station have the highest delay average (24.65).
 - Public transportation system in berlin contains suburban, buses, trams and subway.
 - Ranked by average delay, suburban trains (S-Bahn) recorded the highest average delay(25.64), followed by buses(21.98), trams(19.35), and subway (U-Bahn) lines(11.81), which had the lowest and most consistent delays.
-- We have 5 delay categories (Early, On time, Low Delay, Medium Delay and High Delay), and after analyzing we have figured out that 75.88% of departures are on time, 13% have a low delay of about 1-2 min, and only 1.44% have a high delay (more than 5 min).
+- I have 5 delay categories (Early, On time, Low Delay, Medium Delay and High Delay), and after analyzing i have figured out that 75.88% of departures are on time, 13% have a low delay of about 1-2 min, and only 1.44% have a high delay (more than 5 min).
 - Top 5 most delayed lines, in order, are bus 147, bus N40, suburban S5, tram M10 and tram M8 with average delays of 68.10, 38.47, 41.79, 38.82, 38.86.
 
 ## ✍️ Author
